@@ -14,9 +14,13 @@ TODO: how?
 ## Configure your forwarder script
 * Download the python script
 * Install mail-parser python library
-*: pip install mail-parser
+```bash
+ pip install mail-parser
+ ```
 * Install request python library
-*: pip install requests
+```bash
+  pip install requests
+```
 
 # Links
 * Telegram bot API: https://core.telegram.org/bots/api 
