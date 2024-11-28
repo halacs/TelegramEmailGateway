@@ -1,0 +1,2 @@
+mail_parser==3.15.0
+Requests==2.32.3
